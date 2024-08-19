@@ -1,0 +1,130 @@
+body{
+background-color: black;
+padding: 20px 20px 20px 20px ;
+
+}
+
+
+.a{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 500px;
+font-size: larger;
+color: lightpink;
+text-align: justify;
+padding: 25px 25px 25px 25px;
+}
+
+.b{
+font-weight: 1000px;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+color: lightgreen;
+}
+
+.y:hover{
+
+border: 3px solid black ;
+background-color: white ;
+width: 30px;
+border-radius:50px;
+
+}
+
+.f{
+
+    color: rgb(0, 60, 255);
+    background-color: rgb(255, 238, 0);
+    width: 20px;
+    border: 3px solid rgb(0, 0, 0);   
+border-radius: 10px;
+}
+
+
+
+
+
+.e{
+height: 40px;
+width: 50px;
+font-size: xx-large;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-decoration: none;
+
+margin: 25px 25px 25px 25px;
+}
+
+.g{
+border: 3px solid purple;
+background-color: aqua;
+border-radius: 10px;
+}
+
+
+.h{
+
+background-image: url('https://img.freepik.com/premium-vector/dotted-world-map-black-background-vector-illustration_541075-470.jpg');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.i{
+background-image: url('https://www.shutterstock.com/image-photo/sun-rays-light-on-black-260nw-674966881.jpg');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.j{
+    background-image: url('https://media.istockphoto.com/id/996005792/photo/lens-flare.jpg?s=612x612&w=0&k=20&c=vbR4NQULizNewciU1SHiDiu5lL8ZAQqkXqjxnRepaJw=');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.k{
+    background-image: url('https://i.pinimg.com/474x/06/08/67/0608673657cdea906b69d1e3f700c2b2.jpg');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.l{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/024/055/931/small_2x/yellow-ray-light-isolated-on-black-background-for-overlay-projects-or-screen-blending-mode-effects-photo.jpg');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.m{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV7DwnUlcKSPEVYmsk-5XsVCyDizRRtZ1VA&s');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.n{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcmKgDbv2C37bWsd-iq13bH2pSlKTCYvt2p85lWh6UMm9VjfklGPVJjdIiHZjKb8Ss7I&usqp=CAU');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+.o{
+    background-image: url('https://img.freepik.com/premium-photo/isolated-spotlight-sunshine-effect-black-background_231311-7417.jpg');
+    background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+.img{
+
+width: 550px;
+height: 550px;
+padding: 30px 30px 30px 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
